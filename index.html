@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>OctoCrew</title>
+</head>
+<body>
+  <div></div>
+  <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
+  <script>
+  var url = "https://raw.githubusercontent.com/OctoAwesome/octoawesome/master/OctoAwesome/OctoAwesome.Client/Assets/OctoAwesome.Client/Crew/crew.xml";
+  $.ajax({
+	url: url
+  }).done(function (d) {
+    var xml = $.parseXML(d);
+	var $xml = $( xml );
+	$xml.find('CrewMember').each(function() {
+		var username    = $(this).find('Username').text();
+		var alias       = $(this).find('Alias').text();
+		var description = $(this).find('Description').text();
+		var achievements = [];
+		$(this).find('Achievements').each(function() {
+			achievements.push($(this).text());
+		});
+		
+		var content = `<h2><span class="mw-headline" id="${username}">${username}</span></h2>
+<p>${description}</p>
+<p><b>Weiterführende Links:</b> <a rel="nofollow" class="external text" href="https://anteru.net/">Blog</a> | <a rel="nofollow" class="external text" href="https://anteru.net/2015/08/06/2847/">OctoAwesome Blogeintrag</a><br />
+<b>Achievements:</b> ${achievements.join(' | ')}
+</p>`;
+$('div').append($(content));
+	});
+  });
+  </script>
+</body>
+</html>
