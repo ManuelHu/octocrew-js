@@ -1,0 +1,143 @@
+== Andy ==
+Andreas hat mich in den vergangenen 200 Folgen sicher mit den meisten Emails versorgt zum Thema Octo-Theorie. Egal ob es um den Cache oder die Serialisierung ging: Von ihm habe ich nicht nur "du hast da nen Tippfehler gemacht"-Mails bekommen, sondern sehr umfangreiche Verbesserungsvorschläge, teilweise mit Code-Fragmenten, erklärenden Zeichnungen und sonstigen Anregungen.
+
+'''Weiterführende Links:'''<br />
+'''Achievements:''' Email-Joker
+
+== Anteru ==
+Matthäus, der Mann fürs grafisch Grobe. Wir haben uns auf dem Game Camp kennen gelernt und haben festgestellt, dass er hier noch einiges beitragen kann. Als AMD Engineer hilft er im echten Leben den wirklich großen Projekten zur besseren Grafik-Performance und hat in diesem Zusammenhang schon etliche tolle Tipps platziert.
+
+'''Weiterführende Links:''' [https://anteru.net/ Blog] | [https://anteru.net/2015/08/06/2847/ OctoAwesome Blogeintrag]<br />
+'''Achievements:''' Livegast | Email-Joker | Streamer | Contributor
+
+== bobstriker ==
+Das ist der Typ, der meistens vor der Kamera sitzt und versucht das Projekt zusammen zu halten. Ich denke das läuft ganz gut. Als gelernter Programmierer versucht er wohl zu allem ein bisschen was zu wissen und zeigt in OctoAwesome seine Herangehensweise an Software-Probleme.
+
+'''Weiterführende Links:''' [https://www.youtube.com/c/tomwendel YouTube Channel] | [https://www.patreon.com/bobstriker Patreon]<br />
+'''Achievements:''' Streamer
+
+== Christian ==
+Christian kenne ich schon seit meiner Zeit bei Microsoft. Er ist zwar erster Software Entwickler, hat seinen Spieltrieb aber wohl nie verloren und hat sogar an einem recht erfolgreichen Bomberman-Remake mitgearbeitet. Von ihm stammt übrigens das großartige "Ich bin kein Tutorial"-Shirt ;)
+
+'''Weiterführende Links:''' [https://www.youtube.com/channel/UCihFcS0QvNaVY84-hFmNE3A YouTube Channel]<br />
+'''Achievements:''' Patron | Hardware Dealer
+
+== Dennis ==
+Nach Folge 250 hat mir Dennis (aka. BlackOrca) doch prompt eine kleine Wer-bin-ich Nachricht geschickt die mich sehr gefreut hat. Viele Jahre verfolgt er bereits Projekte wie MoonTaxi, AntMe! und nun eben OctoAwesome. Ihm steht IoT auf der Flagge - speziell das Verbinden von Hard- und Software im Heimbereich.
+
+'''Weiterführende Links:''' [http://blog.dashboard-buster.de Blog]<br />
+'''Achievements:''' Patron
+
+== hendifw ==
+Der Mann für die Registrierungs Webseite, ist seit der 20 Folge mit dabei und Streamt in Zukunft die Coolen ASP.NET OctoAwesome Sachen. 
+
+'''Achievements:''' Datenbank freigeschaltet | Streamer | Contributor
+
+== jvbsl ==
+Julian (aka jvbsl) studiert die gute alte Informatik hier direkt ums Eck in Garching. Wir haben uns so wirklich bewusst - zumindest für mich - am Game Camp in München getroffen uns seither ein paar coole Sachen zusammen gemacht. Angefangen natürlich bei unserem gemeinsamen Livestream zu MoonTaxi. Außerdem arbeitet er gerade an einem Remake des Jump'n'Run Klassikers Jazz Jackrabbit 2 (zu sehen auch im Livestream). Zusammen mit Patrick ist er für den bisherigen Map-Generator in OctoAwesome verantwortlich. Außerdem geht der OctoBot auf sein Konto ;)
+
+'''Weiterführende Links:''' [https://www.livecoding.tv/jvbsl/ Livecoding.tv] | [https://github.com/jvbsl/ GitHub-Projekte]<br />
+'''Achievements:''' Livegast | Streamer | Tools | Contributor
+
+== Jürgen ==
+Jürgen ist ein stiller aber treuer Zuschauer, der aber in die Presche springt, wenn es drauf ankommt. Dank Jürgen wurde Internet in Leipzig möglich.
+
+'''Weiterführende Links:'''<br />
+'''Achievements:''' Patreon
+
+== Kapu ==
+
+Kapu (aka Philipp) habe ich in meiner vorherigen Arbeit im Gründerzentrum kennen gelernt. Er studiert an der MD.H in München und hat sich spontan bereit erklärt den Titel-Song für Octo zu machen. Das Ergebnis hört ihr im Abspann jeder einzelnen Folge.
+
+'''Weiterführende Links:''' [https://www.youtube.com/user/Raidon90 YouTube Channel]<br />
+'''Achievements:''' Musik
+
+== Lassi ==
+Lassi war der erste Stargast im Octo-Universum und hat recht früh im Spiel dafür gesorgt, dass die Physik die richtigen Wege geht. Das ganze Trägheits- und Beschleunigungsthema war noch nie so meins. Wie wir alle wissen, hat er zuletzt seinen Elektrotechniker abgeschlossen, studiert aber tapfer weiter. Ich kann nur hoffen, dass es ein Master mit Schwerpunkt Animations-Physik ist.
+
+'''Weiterführende Links:''' [https://github.com/CsharpLassi GitHub-Projekte]<br />
+'''Achievements:''' Livegast
+
+== macx ==
+macx, eigentlich Maik, kenne ich von diversen Technik-Veranstaltungen im Raum Köln. Von ihm kamen zahlreiche helfende Mails und auch das großzügige Angebot mit uns das Thema Networking auf Basis von WCF anzugehen. Ich werde darauf zurück greifen.
+
+'''Weiterführende Links:'''<br />
+'''Achievements:''' Email-Joker
+
+== manuelhu ==
+Von Manuel habe ich anfangs reichlich Feedback per YouTube-Kommentaren bekommen. Später dann per Email, bis er letztendlich durch die Livestreams zur rettenden Fee im Wiki wurde. Ohne ihn hätten wir hier keinen Episoden-Guide und auch mein Octo-Timer stammt aus seinem Compiler.
+
+'''Weiterführende Links:''' [https://github.com/ManuelHu GitHub] [https://github.com/ManuelHu/OctoReminder OctoReminder], [http://www.manuelhu.de/ Website]<br />
+'''Achievements:''' Email-Joker | Wiki-Admin | Tools | Contributor
+
+== Marcus_Aurelius ==
+Marcus arbeitet auch hier in unserem Wiki mit.
+
+'''Weiterführende Links:'''<br />
+'''Achievements:''' Wiki-Admin | Streamer | Contributor
+
+== MarkusK ==
+Danke für immer wieder äußerst hilfreiche Mails und natürlich auch die finanzielle Unterstützung.
+
+'''Weiterführende Links:'''<br />
+'''Achievements:''' Email-Joker | Patron
+
+== Mrsfuckingsunshine ==
+Frau Sonnenschein, auch unter Aline bekannt, ist die gute Seele im Stream. Sie bringt mir nicht nur immer wieder guten warmen Tee, sondern ist auch mein grafisches Gewissen und meine Inspiration, ebenso der Saubermann im Chat.
+
+'''Weiterführende Links:''' [http://www.alineimwunderland.de/ Web]<br />
+'''Achievements:''' Livegast | Grafik
+
+== patteki ==
+Patrick ist quasi immer verstrickt, wenn es mit Map-Generierung zu tun hat und ist für unseren ambitionierten Masterplan eines irrsinnigen Klima-Modells auf Octo-Planeten verantwortlich. Neben Octo studiert er Mechatronik und streamt gelegentlich auch seine eigenen Sachen. Zumindest wenn er nicht gerade mitten in einem AntMe! Wettkampf steckt.
+
+'''Weiterführende Links:''' [https://www.livecoding.tv/patteki/ Livecoding.tv] | [https://www.youtube.com/user/Patteminecraft Youtube] | [http://www.twitch.tv/patteki Twitch]<br /> 
+'''Achievements:''' Live-Gast | Streamer
+
+== Paul ==
+Paul kenne ich noch aus den guten alten Microsoft Student Partner Zeiten. Er ist Software Entwickler im Raum Berlin und hat uns einzig und alleine ins Chaos gestürzt. Ihn hatten wir im Stream zur Performance- und Speicher-Optimierung. Mit großem Erfolg hat er Octo umgekrempelt.
+
+'''Weiterführende Links:'''<br />
+'''Achievements:''' Live-Gast | Contributor
+
+== Ralf ==
+Ralf teilt sich mit Andy zusammen die Spitze der mit Abstand umfangreichsten und ausgeklügelten Feedback-Mails. Da kommt nicht nur "Das und das ist falsch" sondern meist über Seiten hinweg Lösungsansätze und Referenz-Links. Vielen, vielen Dank dafür!
+
+'''Weiterführende Links:'''<br />
+'''Achievements:''' Email-Joker
+
+== Rave1000 ==
+Immer am Start, immer dabei mit jeder Menge Verbesserungen bei Octo und MonoGameUI.
+
+''' Weiterführende Links:'''[https://github.com/fnawratil GitHub]<br />
+''' Achievements:''' Email-Joker | Contributor
+
+== Redwork ==
+Von Redwork weiß ich leider auch nicht besonders viel. Außer vielleicht, dass ich tolle Feedback Mails bekommen habe die mich schon über einige hundert Folgen begleiten und mir immer wieder tolle Hinweise geben.
+
+'''Weiterführende Links:'''<br />
+'''Achievements:''' Email-Joker
+
+== SomaFM ==
+Ich werde ständig gefragt welchen Radio-Sender ich im "Ladescreen" verwende. Es handelt sich dabei um "Secret Agent" von SomaFM, einem wirklich coolen Streamer. Schaut gerne rein, lasst eine Donation da,...
+
+'''Weiterführende Links:''' [http://somafm.com/secretagent/ SomaFM]<br />
+'''Achievements:''' Tools
+
+== susch19 ==
+Susch war von Beginn an Befürworter das Stream-Formats und ist seither immer sehr hilfreich dabei meine Copy-Paste Probleme aufzudecken und an vielen Stellen gutes Feedback zu schicken.
+
+'''Weiterführende Links:'''<br />
+'''Achievements:''' Email-Joker | Streamer
+
+== Ulrich ==
+Von Ulrich weiß ich leider auch eigentlich überhaupt nichts :( Aber er unterstützt mich bei Patreon und hilft damit ungemein weiter
+
+'''Weiterführende Links:'''<br />
+'''Achievements:''' Patron
+
+== vengarioth ==
+vengarioth heißt eigentlich Andy und arbeitet als Spieleentwickler hier in München. Nicht nur, dass er weiß wie ein Compiler funktioniert, er weiß auch wie man ein Zeichentablett benutzt. Perfekt also um ihn mal in den Stream zu holen um über Grafik und Style zu sprechen.
+
+'''Weiterführende Links:''' [https://github.com/Vengarioth GitHub]<br />
+'''Achievements:''' Live-Gast | Patron
