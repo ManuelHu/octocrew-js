@@ -18,7 +18,9 @@ if ( mw.config.get( 'wgPageName' ) === 'Crew' ) {
       
       var links = [];
       $(this).find('Link').each(function() {
-        links.push('<a rel="nofollow" class="external text" href="'+$(this).attr('Url')+'">'+$(this).attr('Title')+'</a>');
+        var url   = $(this).attr('Url');
+        var title = $(this).attr('Title');
+        links.push('<a rel="nofollow" class="external text" href="'+url+'">'+title+'</a>');
       });
       
       var content = '<h2><span class="mw-headline" id="'+username+'">'+username+'</span></h2>';
