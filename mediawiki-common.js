@@ -1,6 +1,6 @@
 if ( mw.config.get( 'wgPageName' ) === 'Crew' ) {
-  var url_base = "https://raw.githubusercontent.com/OctoAwesome/octoawesome/develop/OctoAwesome/OctoAwesome.Client/Assets/";
-  var xml_url = url_base + "crew.xml";
+  var url_base = 'https://raw.githubusercontent.com/OctoAwesome/octoawesome/develop/OctoAwesome/OctoAwesome.Client/Assets/';
+  var xml_url = url_base + 'crew.xml';
   $.ajax({
     url: xml_url
   }).done(function (data) {
