@@ -1,5 +1,5 @@
 if ( mw.config.get( 'wgPageName' ) === 'Crew' ) {
-  var url_base = 'https://raw.githubusercontent.com/OctoAwesome/octoawesome/develop/OctoAwesome/OctoAwesome.Client/Assets/';
+  var url_base = 'https://raw.githubusercontent.com/OctoAwesome/octoawesome/develop/OctoAwesome/OctoAwesome.Client/Assets/Crew/';
   var xml_url = url_base + 'crew.xml';
   $.ajax({
     url: xml_url
@@ -24,13 +24,14 @@ if ( mw.config.get( 'wgPageName' ) === 'Crew' ) {
       });
       
       var image = $(this).find('PictureFilename').text();
+      var img = '';
       if ( image.length ) {
         var img_url = url_base + image + '.png';
-        console.log(img_url);
+        img = '<img style="float:right;width:100px;height:100px;" src="' + img_url + '" />';        
       }
       
-      var content = '<h2><span class="mw-headline" id="'+username+'">'+username+'</span></h2>';
-      content += '<p>'+description+'</p><p><b>Weiterführende Links:</b> '+links.join(' | ')+'<br />';
+      var content = '<h2 style="clear:both;"><span class="mw-headline" id="'+username+'">'+username+'</span></h2>';
+      content += img + '<p>'+description+'</p><p><b>Weiterführende Links:</b> '+links.join(' | ')+'<br />';
       content += '<b>Achievements:</b> '+achievements.join(' | ')+'</p>';
       $('#mw-content-text').append($(content));
     });
