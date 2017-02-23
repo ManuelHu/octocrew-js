@@ -4,8 +4,10 @@ if ( mw.config.get( 'wgPageName' ) === 'Crew' ) {
   $.ajax({
     url: xml_url
   }).done(function (data) {
+    // Load xml file
     var xml = $.parseXML(data);
     var $xml = $( xml );
+    
     $xml.find('CrewMember').each(function() {
       var username    = $(this).find('Username').text();
       var alias       = $(this).find('Alias').text();
@@ -35,5 +37,11 @@ if ( mw.config.get( 'wgPageName' ) === 'Crew' ) {
       content += '<b>Achievements:</b> '+achievements.join(' | ')+'</p>';
       $('#mw-content-text').append($(content));
     });
+    
+    // If anchor specified
+    var anchor_parts = location.href.split('#');
+    if (anchor_parts.length == 2) {
+      location.hash = '#' + anchor_parts[1];
+    }
   });
 }
